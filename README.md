@@ -19,7 +19,7 @@ This project simulates an online food delivery service with the following compon
 ## 🚀 Live Demo
 
 <!-- Add your deployment link if available -->
-<!-- Live Site: [https://your-live-site.com](https://your-live-site.com) -->
+<!-- Live Site: [https://fooddel-vk.netlify.app/](https://fooddel-vk.netlify.app/)) -->
 
 ---
 
