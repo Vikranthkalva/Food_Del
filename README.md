@@ -19,7 +19,8 @@ This project simulates an online food delivery service with the following compon
 ## 🚀 Live Demo
 
 <!-- Add your deployment link if available -->
-<!-- Live Site: [https://fooddel-vk.netlify.app/](https://fooddel-vk.netlify.app/)) -->
+<!-- FrontEnd page: [https://frontend-vk.netlify.app/](https://frontend-vk.netlify.app) -->
+<!-- Admin page: [https://admin-vk.netlify.app] (https://admin-vk.netlify.app) -->
 
 ---
 
