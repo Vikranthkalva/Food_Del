@@ -82,4 +82,5 @@ Runs on: http://localhost:5174 by default
 
 3. Open Admin Panel
 After starting the frontend, go to:
-http://localhost:5173/admin
+npm run dev 
+Runs on: http://localhost:5173 by default
